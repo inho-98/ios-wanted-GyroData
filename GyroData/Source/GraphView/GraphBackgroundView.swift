@@ -22,6 +22,12 @@ final class GraphBackgroundView: UIView {
         super.draw(rect)
         drawBackgroundLines()
     }
+    
+    func 테스트함수() {
+        
+    }
+    
+    let test: Int = 9
 }
 
 private extension GraphBackgroundView {
